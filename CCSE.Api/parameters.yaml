@@ -1,0 +1,4 @@
+dburl: http://database-1.cfv10rew3vrj.us-east-1.rds.amazonaws.com/
+username: postgres
+password: isuruCcamsciit
+Port: 5432
